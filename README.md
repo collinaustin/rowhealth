@@ -23,7 +23,19 @@ In order to evaluate campaign performance, we focused on the following key metri
 ### Signup Rate
 - Across 12 campaign categories, Health For All campaign performed 4X better than the second best campaign in terms of signup rate (2.08%) and signed up the second most customers (3.5K).
 - The high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate (2.78%) of all the campaign’s three types.
+- Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.27%.
 
 
 ### Cost per Signup
 - Coverage Matters campaign was the most efficient campaign, having the lowest CPS while producing the #2 signup rate, completely due to the Product Promotion campaign type.
+- Across campaign categories, Golden Years Security had by far the highest cost per signup ($178), compared to an average of $3.70, as well as the lowest number of signups (23).
+- Two COVID-based campaigns also had abnormally high CACs at $2.2K and $1.2K as well as one Health Awareness campaign at $940/customer.
+
+### Click through Rate
+- The top two campaign categories by CTR, Health For All and Benefit Updates, were each driven by a single stand out campaign type (Health Awareness at 37% and Policy Information at 31%). These same two campaign types ranked #1 and #2 in CTR across all 12 categories.
+- Every campaign outperformed Health For All in impressions, but its CTR was nearly 4X that of Tailored Health Plans (25% vs 7%), the impression leader.
+- Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
+
+### Cost per Click
+- CPC only showed meaningful statistical insight at the campaign type level, and the data clearly points to consolidating budget toward Health Awareness and Policy Information while reducing investment in high CPC types that aren't delivering proportional returns on either clicks or reach.
+- Social and referral acquisition channels accounted for 92% of all sign-ups and had the lowest cost per click and highest volume of impressions and clicks.
