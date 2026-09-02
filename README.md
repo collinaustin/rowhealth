@@ -39,3 +39,15 @@ In order to evaluate campaign performance, we focused on the following key metri
 ### Cost per Click
 - CPC only showed meaningful statistical insight at the campaign type level, and the data clearly points to consolidating budget toward Health Awareness and Policy Information while reducing investment in high CPC types that aren't delivering proportional returns on either clicks or reach.
 - Social and referral acquisition channels accounted for 92% of all sign-ups and had the lowest cost per click and highest volume of impressions and clicks.
+
+## Recommendations
+- Identify the top-performing campaign type within each category and prioritize budget towards it, often a single campaign type consistently drives a majority of clicks, signups, or impressions while the others contribute very little. This effect can be seen most clearly when looking at cost per signup for each campaign type, where campaign types like Covid Awareness or Health Awareness cost $1K-2K/signup.
+
+- Half of the campaigns accounted for over 90% of the signups. Budget for the bottom 50% of campaigns needs to be reduced, reimagined, or cut entirely.
+
+- The COVID Awareness campaign type should be renamed and refreshed quarterly to reflect trending health topics (e.g. Cyclosporiasis in Q3 2026), keeping content timely and relevant to potential customer’s concerns.
+
+- Reduce budget for email and direct acquisition channels and redirect towards social, referral and marketplace. 
+
+## Dashboard
+The dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
