@@ -50,4 +50,17 @@ In order to evaluate campaign performance, we focused on the following key metri
 - Reduce budget for email and direct acquisition channels and redirect towards social, referral and marketplace. 
 
 ## Dashboard
-The dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/collin.hayes/viz/RowHealth_17825066761170/Dashboard1). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
+<img width="1545" height="1019" alt="Screenshot 2026-09-03 at 2 56 41 PM" src="https://github.com/user-attachments/assets/7d721e2a-14fc-462f-a7ab-4365b66801cc" />
+
+## Presentation Sample
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1JDDmbNvNdGgA_oHeKhaQB9r6b4ZrXeWcoJHJ8bHxCvk/edit?usp=sharing). Some extracts are presented below for easy viewing.
+
+<img width="757" height="426" alt="Screenshot 2026-09-03 at 3 02 01 PM" src="https://github.com/user-attachments/assets/3b0efb05-5a4e-4d39-bfdd-e4fd30a49742" />
+
+<img width="757" height="428" alt="Screenshot 2026-09-03 at 3 02 35 PM" src="https://github.com/user-attachments/assets/134c3d88-ba1f-433a-be51-c5b6e365b569" />
+
+<img width="756" height="426" alt="Screenshot 2026-09-03 at 3 03 01 PM" src="https://github.com/user-attachments/assets/42c92a46-ab74-42b0-aa5d-60fd327f144d" />
+
+
