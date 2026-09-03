@@ -41,9 +41,9 @@ In order to evaluate campaign performance, we focused on the following key metri
 - Social and referral acquisition channels accounted for 92% of all sign-ups and had the lowest cost per click and highest volume of impressions and clicks.
 
 ## Recommendations
-- Identify the top-performing campaign type within each category and prioritize budget towards it, often a single campaign type consistently drives a majority of clicks, signups, or impressions while the others contribute very little. This effect can be seen most clearly when looking at cost per signup for each campaign type, where campaign types like Covid Awareness or Health Awareness cost $1K-2K/signup.
+- Redirect the budget of Golden Years Security and Insure Your Health, the worst performing campaign categories when looking at all North Star metrics, towards any of the top performing campaigns (Health For All, Coverage Matters, Compare Health Coverage, Healthy Living). Those four campaigns performed above average in multiple North Star metrics, making them perfect candidates for increased budget.
 
-- Half of the campaigns accounted for over 90% of the signups. Budget for the bottom 50% of campaigns needs to be reduced, reimagined, or cut entirely.
+- Each campaign category runs too many campaign types simultaneously, diluting budget across underperforming types. The data is clear on which types drive signups, Health Awareness for Health For All ($0.69 CPS), Product Promotion for Coverage Matters ($0.30), Policy Information for Healthy Living ($0.92 CPS), and Customer Testimonial for Compare Health Coverage ($1.80 CPS). The remaining types within these categories cost anywhere from $25-$2,239 per signup for a fraction of the results. Narrow each category to its top 1-2 performing campaign types and reallocate the rest of the budget there.
 
 - The COVID Awareness campaign type should be renamed and refreshed quarterly to reflect trending health topics (e.g. Cyclosporiasis in Q3 2026), keeping content timely and relevant to potential customer’s concerns.
 
